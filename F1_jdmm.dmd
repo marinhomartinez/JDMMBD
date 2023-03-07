@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="F1_jdmm" id="1F0E80D1-608A-180C-EC36-A4E12CECBE30" version="3.5">
+<createdBy>diego.rodriguezcaama</createdBy>
+<createdTime>2023-02-06 17:01:34 UTC</createdTime>
+<ownerDesignName>F1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1F0E80D1-608A-180C-EC36-A4E12CECBE30</designId>
+</OSDM_Design>
